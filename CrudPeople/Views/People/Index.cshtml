@@ -1,0 +1,31 @@
+@model IEnumerable<aula6CrudPeople.Models.Person>
+
+    <a href="People/Create" class="btn btn-primary">Adicionar Pessoa</a>
+<br><br>
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Endereço</th>
+                <th></th>
+                <th></th>
+            </tr>
+            </tr>
+        </thead>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.name</td>
+                <td>@item.address</td>
+                <td><a class="btn btn-danger" href="People/Delete/@item.id">Delete</a> </td>
+                <td><a class="btn btn-primary" href="People/Update/@item.id">Editar</a> </td>
+            </tr>
+        }
+    </table>
+</div>
+© 2019 GitHub, Inc.
