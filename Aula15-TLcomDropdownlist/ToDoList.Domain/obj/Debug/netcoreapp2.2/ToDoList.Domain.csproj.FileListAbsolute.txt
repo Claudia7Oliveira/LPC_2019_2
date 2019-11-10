@@ -1,0 +1,9 @@
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/bin/Debug/netcoreapp2.2/ToDoList.Domain.deps.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/bin/Debug/netcoreapp2.2/ToDoList.Domain.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/bin/Debug/netcoreapp2.2/ToDoList.Domain.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/obj/Debug/netcoreapp2.2/ToDoList.Domain.csprojAssemblyReference.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/obj/Debug/netcoreapp2.2/ToDoList.Domain.csproj.CoreCompileInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/obj/Debug/netcoreapp2.2/ToDoList.Domain.AssemblyInfoInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/obj/Debug/netcoreapp2.2/ToDoList.Domain.AssemblyInfo.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/obj/Debug/netcoreapp2.2/ToDoList.Domain.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/area-de-testes/ToDoList-Class-Libraries/ToDoList.Domain/obj/Debug/netcoreapp2.2/ToDoList.Domain.pdb

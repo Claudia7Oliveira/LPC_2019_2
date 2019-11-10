@@ -1,0 +1,42 @@
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.AssemblyInfo.cs
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.deps.json
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.runtimeconfig.json
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.runtimeconfig.dev.json
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.dll
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.pdb
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Domain.dll
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Domain.pdb
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.csproj.CopyComplete
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.dll
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.deps.json
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.runtimeconfig.json
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.runtimeconfig.dev.json
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Domain.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Domain.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.csprojAssemblyReference.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.AssemblyInfo.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.csproj.CopyComplete
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.deps.json
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.runtimeconfig.json
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.runtimeconfig.dev.json
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Repositories.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Domain.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\bin\Debug\netcoreapp2.2\contasLuz.Domain.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.csprojAssemblyReference.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.AssemblyInfo.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.csproj.CopyComplete
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netcoreapp2.2\contasLuz.Repositories.pdb

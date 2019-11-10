@@ -1,0 +1,77 @@
+{
+  "FilePath": "c:\\Users\\PC\\Documents\\LPC_2019_2\\ContasLib\\ContasEF.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "ContasEF",
+  "Documents": [
+    {
+      "FilePath": "CTMVC\\Views\\Contas\\View.cshtml",
+      "TargetPath": "CTMVC\\Views\\Contas\\View.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "CTMVC\\Views\\Contas\\Update.cshtml",
+      "TargetPath": "CTMVC\\Views\\Contas\\Update.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "CTMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "CTMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "CTMVC\\Views\\_ViewImports.cshtml",
+      "TargetPath": "CTMVC\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "CTMVC\\Views\\Home\\Index.cshtml",
+      "TargetPath": "CTMVC\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "CTMVC\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "CTMVC\\Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "CTMVC\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "TargetPath": "CTMVC\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "CTMVC\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "CTMVC\\Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "CTMVC\\Views\\Contas\\Create.cshtml",
+      "TargetPath": "CTMVC\\Views\\Contas\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "CTMVC\\Views\\Contas\\Index.cshtml",
+      "TargetPath": "CTMVC\\Views\\Contas\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "CTMVC\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "CTMVC\\Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "CTMVC\\Views\\_ViewStart.cshtml",
+      "TargetPath": "CTMVC\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

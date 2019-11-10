@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Web/ToDoList.Web.csproj": {}
+  },
+  "projects": {
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Domain/ToDoList.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Domain/ToDoList.Domain.csproj",
+        "projectName": "ToDoList.Domain",
+        "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Domain/ToDoList.Domain.csproj",
+        "packagesPath": "/home/cassio/.nuget/packages/",
+        "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cassio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/ToDoList.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/ToDoList.Repository.csproj",
+        "projectName": "ToDoList.Repository",
+        "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/ToDoList.Repository.csproj",
+        "packagesPath": "/home/cassio/.nuget/packages/",
+        "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cassio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Domain/ToDoList.Domain.csproj": {
+                "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Domain/ToDoList.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Web/ToDoList.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Web/ToDoList.Web.csproj",
+        "projectName": "ToDoList.Web",
+        "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Web/ToDoList.Web.csproj",
+        "packagesPath": "/home/cassio/.nuget/packages/",
+        "outputPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Web/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cassio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/ToDoList.Repository.csproj": {
+                "projectPath": "/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/ToDoList.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

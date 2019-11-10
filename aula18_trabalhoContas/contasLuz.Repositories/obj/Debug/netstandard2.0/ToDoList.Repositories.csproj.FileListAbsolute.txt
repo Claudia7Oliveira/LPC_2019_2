@@ -1,0 +1,4 @@
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netstandard2.0\contasLuz.Repositories.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netstandard2.0\contasLuz.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netstandard2.0\contasLuz.Repositories.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Repositories\obj\Debug\netstandard2.0\contasLuz.Repositories.AssemblyInfo.cs

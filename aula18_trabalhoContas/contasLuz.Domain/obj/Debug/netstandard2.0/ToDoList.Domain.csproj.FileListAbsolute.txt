@@ -1,0 +1,27 @@
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Domain\bin\Debug\netstandard2.0\contasLuz.Domain.deps.json
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Domain\bin\Debug\netstandard2.0\contasLuz.Domain.dll
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Domain\bin\Debug\netstandard2.0\contasLuz.Domain.pdb
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.AssemblyInfo.cs
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.dll
+C:\Users\rober\Desktop\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Domain\bin\Debug\netstandard2.0\contasLuz.Domain.deps.json
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Domain\bin\Debug\netstandard2.0\contasLuz.Domain.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Domain\bin\Debug\netstandard2.0\contasLuz.Domain.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.csprojAssemblyReference.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.AssemblyInfo.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\gits do pessoal\gitguilherme\lpc-torres-2019-2-master\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Domain\bin\Debug\netstandard2.0\contasLuz.Domain.deps.json
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Domain\bin\Debug\netstandard2.0\contasLuz.Domain.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Domain\bin\Debug\netstandard2.0\contasLuz.Domain.pdb
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.csprojAssemblyReference.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.AssemblyInfo.cs
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.dll
+C:\Users\andre\Documents\05 - ulbra\2019-2\linguagem de programação comercial\LPC\contasLuz_Refatorada\contasLuz.Domain\obj\Debug\netstandard2.0\contasLuz.Domain.pdb

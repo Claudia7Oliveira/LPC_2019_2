@@ -1,0 +1,12 @@
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.csprojAssemblyReference.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.csproj.CoreCompileInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.AssemblyInfoInputs.cache
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.AssemblyInfo.cs
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/bin/Debug/netstandard2.0/ToDoList.Repository.deps.json
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/bin/Debug/netstandard2.0/ToDoList.Repository.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/bin/Debug/netstandard2.0/ToDoList.Repository.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/bin/Debug/netstandard2.0/ToDoList.Domain.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/bin/Debug/netstandard2.0/ToDoList.Domain.pdb
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.csproj.CopyComplete
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.dll
+/home/cassio/1-Wintrab/Ulbra-Projetos-class/LPC/lpc-torres-2019-2/Aula13-TodoList/ToDoList.Repository/obj/Debug/netstandard2.0/ToDoList.Repository.pdb

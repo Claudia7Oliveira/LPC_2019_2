@@ -1,0 +1,38 @@
+@model ToDoList.Domain.ToDo
+
+<div class="form-horizontal">
+    <form action="Create" method="Post">
+
+        <div class="form-group">
+            <label>Id</label>
+            <input  class="form-control"
+                    type="text" name="id"/>
+        </div>
+
+        <div class="form-group">
+            <label>Nome</label>
+            <input  class="form-control"
+                    type="text" name="name"/>
+        </div>
+
+        <div class="form-group">
+            <label>Prioridade</label>
+            <input  class="form-control"
+                    type="text" name="priority"/>
+        </div>    
+
+        <div  class="form-group">
+            <label for="type">Tipo</label>
+            <select class="form-control" name="typeToDo.id" required>
+                    <option value="" disabled selected>Selecione a tipo</option>
+                @foreach(var type in ViewBag.TypesToDos ){
+                    <option value="@type.id">@type.id | @type.description</option>
+                }
+            </select>
+        </div>
+
+        <input  class="btn btn-primary" 
+                type="submit" value="Salvar"/>
+
+    </form>
+</div>

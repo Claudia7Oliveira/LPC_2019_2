@@ -1,0 +1,6 @@
+c:\Users\PC\Documents\LPC_2019_2\ContasLib\obj\Debug\netcoreapp2.2\ContasEF.csprojAssemblyReference.cache
+c:\Users\PC\Documents\LPC_2019_2\ContasLib\obj\Debug\netcoreapp2.2\ContasEF.csproj.CoreCompileInputs.cache
+c:\Users\PC\Documents\LPC_2019_2\ContasLib\obj\Debug\netcoreapp2.2\ContasEF.RazorAssemblyInfo.cache
+c:\Users\PC\Documents\LPC_2019_2\ContasLib\obj\Debug\netcoreapp2.2\ContasEF.RazorAssemblyInfo.cs
+c:\Users\PC\Documents\LPC_2019_2\ContasLib\obj\Debug\netcoreapp2.2\ContasEF.AssemblyInfoInputs.cache
+c:\Users\PC\Documents\LPC_2019_2\ContasLib\obj\Debug\netcoreapp2.2\ContasEF.AssemblyInfo.cs

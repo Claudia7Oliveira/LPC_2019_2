@@ -1,0 +1,35 @@
+@model IEnumerable<ToDoList.Domain.ToDo>
+
+    
+</br></br>
+<a href="Todo/Create" class="btn btn-primary">Novo</a>
+</br></br>
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Prioridade</th>
+                <th>Tipo</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.name</td>
+                <td>@item.priority</td>
+                <td>@item.typeToDo.description</td>
+                <td><a class="btn btn-danger"
+                    href="Todo/Delete/@item.id">Delete</a> </td>
+                <td><a class="btn btn-primary" 
+                    href="Todo/Edit/@item.id">Editar</a> </td>
+            </tr>
+        }
+    </table>
+</div>
